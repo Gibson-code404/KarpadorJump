@@ -1,5 +1,6 @@
 using TMPro;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class GameUI : MonoBehaviour
 {
@@ -15,8 +16,8 @@ public class GameUI : MonoBehaviour
     public TMP_Text finalScoreText;
     public GameObject newRecordLabel;
 
-    [Header("Events (optional)")]
-    //public EventDirector director;
+    [Header("Optional")]
+    public Image difficultyFill;   // UI Image mit Image Type "Filled" (Vorlesung 6)
 
     int lastScore = -1;
     int lastCoins = -1;
@@ -26,12 +27,6 @@ public class GameUI : MonoBehaviour
     {
         highScoreText.text = "Rekord " + GameManager.Instance.HighScore;
         eventBannerText.gameObject.SetActive(false);
-        //if (director != null) director.EventStarted += ShowBanner;
-    }
-
-    void OnDestroy()
-    {
-        //if (director != null) director.EventStarted -= ShowBanner;
     }
 
     void Update()
@@ -50,6 +45,8 @@ public class GameUI : MonoBehaviour
             coinText.text = "Münzen " + lastCoins;
         }
 
+        if (difficultyFill != null) difficultyFill.fillAmount = gm.Difficulty;
+
         pausePanel.SetActive(gm.State == GameState.Paused);
 
         bool over = gm.State == GameState.GameOver;
@@ -67,7 +64,7 @@ public class GameUI : MonoBehaviour
         }
     }
 
-    void ShowBanner(string message)
+    public void ShowBanner(string message)
     {
         eventBannerText.text = message;
         eventBannerText.gameObject.SetActive(true);
