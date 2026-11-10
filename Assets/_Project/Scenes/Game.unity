@@ -130,6 +130,7 @@ GameObject:
   - component: {fileID: 267213822}
   - component: {fileID: 267213821}
   - component: {fileID: 267213823}
+  - component: {fileID: 267213824}
   m_Layer: 0
   m_Name: Water
   m_TagString: Untagged
@@ -163,7 +164,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  - {fileID: 2100000, guid: 0ad0e09c982854381beb69003b888549, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -184,10 +185,10 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 5
   m_MaskInteraction: 0
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
-  m_Color: {r: 0, g: 0.46777534, b: 1, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -224,6 +225,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b4c32e971e237447e9b1c6198ef9978a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::FollowCameraX
+--- !u!114 &267213824
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 267213820}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bce274b8715de413daf674c1d8a707b5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::WaterController
+  fadeSpeed: 0.5
+  stormVolume: {fileID: 0}
 --- !u!1 &314879581
 GameObject:
   m_ObjectHideFlags: 0
@@ -330,7 +345,7 @@ MonoBehaviour:
   minGap: 1
   easyMaxGap: 1.6
   gapSafety: 0.8
-  coinChance: 0.6
+  coinChance: 0.4
   sinkChance: 0
 --- !u!1 &510833382
 GameObject:
@@ -3074,7 +3089,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 2
   m_MaskInteraction: 0
   m_Sprite: {fileID: -2413806693520163455, guid: a86470a33a6bf42c4b3595704624658b, type: 3}
   m_Color: {r: 0.9245283, g: 0.54511744, b: 0, a: 1}

@@ -32,8 +32,8 @@ public class PlayerFeedback : MonoBehaviour
     }
 
     void OnJumped() { Play(jumpSfx); }
-    void OnLanded() { Play(landSfx, 0.6f); }
-    void OnCoin() { Play(coinSfx); }
+    void OnLanded() { Play(landSfx, 0.4f); }
+    void OnCoin() { Play(coinSfx, 0.4f); }
 
     void OnDied(DeathCause cause)
     {
