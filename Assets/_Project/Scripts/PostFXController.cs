@@ -60,7 +60,7 @@ public class PostFXController : MonoBehaviour
 
         if (vignette != null)
         {
-            vignette.intensity.Override(Mathf.Clamp01(vignetteBase + difficulty * 0.6f + hit * 0.4f));
+            vignette.intensity.Override(Mathf.Clamp01(vignetteBase + difficulty * 0.5f + hit * 0.4f));
             vignette.color.Override(Color.Lerp(Color.black, Color.red, hit));
         }
         if (chroma != null)
