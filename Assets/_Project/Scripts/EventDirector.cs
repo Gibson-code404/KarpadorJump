@@ -50,11 +50,11 @@ public class EventDirector : MonoBehaviour
 
     void StartRandomEvent()
     {
-        switch (Random.Range(0, 2))
+        switch (Random.Range(0, 3))
         {
             case 0: StartCoroutine(UpdraftEvent()); break;
             case 1: StartCoroutine(SinkingEvent()); break;
-            default: StartCoroutine(StormEvent()); break;
+            case 2: StartCoroutine(StormEvent()); break;
         }
     }
 
@@ -81,17 +81,29 @@ public class EventDirector : MonoBehaviour
     }
 
     // Event 3: Sturm. Wasser wird dunkel (Shader), Steine fallen vom Himmel
-    IEnumerator StormEvent()
+        IEnumerator StormEvent()
     {
         EventStarted?.Invoke("Sturm!");
         if (water != null) water.SetStorm(1f);
 
-        for (int i = 0; i < 5; i++)
+        int count = Random.Range(2, 4);          // mal 4, mal 7 Felsen
+        for (int i = 0; i < count; i++)
         {
-            float fallTime = 1.3f;    // so lange faellt ein Stein aus 9 m Hoehe
-            float x = player.position.x + GameManager.Instance.CurrentSpeed * fallTime + Random.Range(-2f, 2f);
-            Instantiate(hazardPrefab, new Vector3(x, 9f, 0f), Quaternion.identity);
-            yield return new WaitForSeconds(Random.Range(1.2f, 2f));
+            float spawnY = 7f;                   // knapp über dem Bildrand, sofort sichtbar
+            float fallTime = 1.15f;              // Fallzeit aus 7 m bei Gravity Scale 1
+            float x;
+            if (Random.value < 0.1f)
+            {
+                // gezielt: dorthin, wo der Fisch gleich ist, leicht gestreut
+                x = player.position.x + GameManager.Instance.CurrentSpeed * fallTime + Random.Range(-1.5f, 1.5f);
+            }
+            else
+            {
+                // zufällig irgendwo vor dem Fisch
+                x = player.position.x + Random.Range(3f, 14f);
+            }
+            Instantiate(hazardPrefab, new Vector3(x, spawnY, 0f), Quaternion.identity);
+            yield return new WaitForSeconds(Random.Range(1.5f, 2.5f));
         }
 
         if (water != null) water.SetStorm(0f);

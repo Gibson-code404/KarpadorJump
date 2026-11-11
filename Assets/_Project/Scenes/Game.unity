@@ -119,6 +119,55 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1 &218942065
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 218942067}
+  - component: {fileID: 218942066}
+  m_Layer: 0
+  m_Name: StormVolume
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &218942066
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 218942065}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 172515602e62fb746b5d573b38a5fe58, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.RenderPipelines.Core.Runtime::UnityEngine.Rendering.Volume
+  m_IsGlobal: 1
+  priority: 1
+  blendDistance: 0
+  weight: 0
+  sharedProfile: {fileID: 11400000, guid: 6afb9a7c8de2c45a682dda3e6ba7d392, type: 2}
+--- !u!4 &218942067
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 218942065}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 296.26263, y: 190.7694, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &267213820
 GameObject:
   m_ObjectHideFlags: 0
@@ -238,7 +287,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::WaterController
   fadeSpeed: 0.5
-  stormVolume: {fileID: 0}
+  stormVolume: {fileID: 218942066}
 --- !u!1 &314879581
 GameObject:
   m_ObjectHideFlags: 0
@@ -2153,11 +2202,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::EventDirector
   player: {fileID: 1734717425}
   spawner: {fileID: 384315019}
-  water: {fileID: 0}
+  water: {fileID: 267213824}
   ui: {fileID: 1654281713}
   updraftPrefab: {fileID: 2698413854602912431, guid: daf8a22414dda4075953328fd8af286d, type: 3}
-  hazardPrefab: {fileID: 0}
-  firstEventDelay: 3
+  hazardPrefab: {fileID: 2456493270383847272, guid: b15586062b50f4df5976a0a59f679b5c, type: 3}
+  firstEventDelay: 20
   intervalRange: {x: 12, y: 20}
 --- !u!1 &1378972628
 GameObject:
@@ -3317,6 +3366,7 @@ MonoBehaviour:
   groundLayer:
     serializedVersion: 2
     m_Bits: 64
+  moveOffset: 2.5
 --- !u!114 &1734717429
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4393,3 +4443,4 @@ SceneRoots:
   - {fileID: 2901974730527199130}
   - {fileID: 1378972630}
   - {fileID: 1368037262}
+  - {fileID: 218942067}

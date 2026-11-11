@@ -34,4 +34,18 @@ public static class GameInput
         return Input.GetKeyDown(KeyCode.Escape) || Input.GetKeyDown(KeyCode.P);
 #endif
     }
+    public static float MoveAxis()
+    {
+    #if ENABLE_INPUT_SYSTEM
+        var kb = UnityEngine.InputSystem.Keyboard.current;
+        if (kb == null) return 0f;
+        float x = 0f;
+        if (kb.aKey.isPressed || kb.leftArrowKey.isPressed) x -= 1f;
+        if (kb.dKey.isPressed || kb.rightArrowKey.isPressed) x += 1f;
+        return x;
+    #else
+        return Input.GetAxisRaw("Horizontal");
+    #endif
+        
+    }
 }

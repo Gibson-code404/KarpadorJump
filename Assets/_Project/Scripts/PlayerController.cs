@@ -22,6 +22,9 @@ public class PlayerController : MonoBehaviour
 
     public bool IsGrounded { get; private set; }
 
+    public float moveOffset = 2.5f;
+    float moveInput;
+
     Rigidbody2D rb;
     float lastJumpPressTime = -10f;
     float lastGroundedTime = -10f;
@@ -35,6 +38,7 @@ public class PlayerController : MonoBehaviour
     // Input gehoert in Update, sonst koennen kurze Tastendruecke verschluckt werden
     void Update()
     {
+        moveInput = GameInput.MoveAxis();
         if (dead || GameManager.Instance.State != GameState.Playing) return;
         if (GameInput.JumpPressed()) lastJumpPressTime = Time.time;
     }
@@ -55,8 +59,10 @@ public class PlayerController : MonoBehaviour
 
         // Hybrid-Controller: x und y setzen wir selbst (snappy), Kollisionen macht die Physik
         Vector2 v = rb.linearVelocity;
-        v.x = gm.CurrentSpeed;
-
+        float speed = gm.CurrentSpeed;
+        if (IsGrounded) speed += moveInput * moveOffset;
+        v.x = speed;
+        
         bool wantsJump = Time.time - lastJumpPressTime <= jumpBufferTime;
         bool canJump = Time.time - lastGroundedTime <= coyoteTime;
         if (wantsJump && canJump)
