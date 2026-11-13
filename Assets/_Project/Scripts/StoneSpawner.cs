@@ -62,7 +62,11 @@ public class StoneSpawner : MonoBehaviour
         GameObject prefab = sinking ? sinkingStonePrefab : stonePrefab;
 
         GameObject stone = Instantiate(prefab, new Vector3(centerX, topY - stoneHeight * 0.5f, 0f), Quaternion.identity);
-        stone.transform.localScale = new Vector3(width, stoneHeight, 1f);
+
+        // Sprite-Größe herausrechnen, damit der Stein genau width x stoneHeight groß wird
+        SpriteRenderer sr = stone.GetComponent<SpriteRenderer>();
+        Vector2 spriteSize = sr.sprite.bounds.size;
+        stone.transform.localScale = new Vector3(width / spriteSize.x, stoneHeight / spriteSize.y, 1f);
 
         if (!firstStone && !sinking && coinPrefab != null && Random.value < coinChance)
             SpawnCoins(centerX, width);
@@ -82,7 +86,7 @@ public class StoneSpawner : MonoBehaviour
         for (int i = 0; i < count; i++)
         {
             float x = centerX + (i - (count - 1) * 0.5f) * 1.2f;
-            Instantiate(coinPrefab, new Vector3(x, topY + 0.9f, 0f), Quaternion.identity);
+            Instantiate(coinPrefab, new Vector3(x, topY + 0.3f, 0f), Quaternion.identity);
         }
     }
 }

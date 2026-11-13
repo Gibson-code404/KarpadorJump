@@ -1,0 +1,366 @@
+fileFormatVersion: 2
+guid: ce90f299cb5ec486598f1b9614f9e908
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6160505874184032228
+    second: "Schockierter gr\xFCner Pixel-Fisch_0"
+  - first:
+      213: 1366380405277753895
+    second: "Schockierter gr\xFCner Pixel-Fisch_1"
+  - first:
+      213: -5535143003278485954
+    second: "Schockierter gr\xFCner Pixel-Fisch_2"
+  - first:
+      213: -4471830324057199528
+    second: "Schockierter gr\xFCner Pixel-Fisch_3"
+  - first:
+      213: -5603884082545878929
+    second: "Schockierter gr\xFCner Pixel-Fisch_4"
+  - first:
+      213: 7364582087088613414
+    second: "Schockierter gr\xFCner Pixel-Fisch_5"
+  - first:
+      213: 7617252833284750227
+    second: "Schockierter gr\xFCner Pixel-Fisch_6"
+  - first:
+      213: -6063757057317193826
+    second: "Schockierter gr\xFCner Pixel-Fisch_7"
+  - first:
+      213: 4007310612100347959
+    second: "Schockierter gr\xFCner Pixel-Fisch_8"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 700
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Schockierter gr\xFCner Pixel-Fisch_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 23
+        width: 1237
+        height: 1196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10bd841c8c718aa0800000000000000
+      internalID: -6160505874184032228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Schockierter gr\xFCner Pixel-Fisch_1"
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72282ac3dbb56f210800000000000000
+      internalID: 1366380405277753895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Schockierter gr\xFCner Pixel-Fisch_2"
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1158
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36d894d3c83f23b0800000000000000
+      internalID: -5535143003278485954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Schockierter gr\xFCner Pixel-Fisch_3"
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1132
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c20c6530ed0f1c0800000000000000
+      internalID: -4471830324057199528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Schockierter gr\xFCner Pixel-Fisch_4"
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1138
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6813691e110b32b0800000000000000
+      internalID: -5603884082545878929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Schockierter gr\xFCner Pixel-Fisch_5"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1254
+        height: 1254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6282f149360443660800000000000000
+      internalID: 7364582087088613414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Schockierter gr\xFCner Pixel-Fisch_6"
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 128
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b764c081be5b960800000000000000
+      internalID: 7617252833284750227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Schockierter gr\xFCner Pixel-Fisch_7"
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 127
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e973752651539dba0800000000000000
+      internalID: -6063757057317193826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Schockierter gr\xFCner Pixel-Fisch_8"
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 61
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738f4e225c3dc9730800000000000000
+      internalID: 4007310612100347959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a049ae8abfbdc4ebd8e7c9b37ddcee37
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Schockierter gr\xFCner Pixel-Fisch_0": -6160505874184032228
+      "Schockierter gr\xFCner Pixel-Fisch_1": 1366380405277753895
+      "Schockierter gr\xFCner Pixel-Fisch_2": -5535143003278485954
+      "Schockierter gr\xFCner Pixel-Fisch_3": -4471830324057199528
+      "Schockierter gr\xFCner Pixel-Fisch_4": -5603884082545878929
+      "Schockierter gr\xFCner Pixel-Fisch_5": 7364582087088613414
+      "Schockierter gr\xFCner Pixel-Fisch_6": 7617252833284750227
+      "Schockierter gr\xFCner Pixel-Fisch_7": -6063757057317193826
+      "Schockierter gr\xFCner Pixel-Fisch_8": 4007310612100347959
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

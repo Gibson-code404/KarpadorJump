@@ -1,14 +1,14 @@
 using System.Collections;
 using UnityEngine;
 
-// Startet in Abstaenden zufaellige Events. Jedes Event ist eine Coroutine.
+// Startet in Abstaenden zufaellige Events. 
 public class EventDirector : MonoBehaviour
 {
     [Header("Referenzen")]
     public Transform player;
     public StoneSpawner spawner;
-    public WaterController water;          // optional
-    public GameUI ui;                      // optional: zeigt den Event-Namen als Banner
+    public WaterController water;          
+    public GameUI ui;                      
 
     [Header("Prefabs")]
     public GameObject updraftPrefab;
@@ -18,7 +18,7 @@ public class EventDirector : MonoBehaviour
     public float firstEventDelay = 20f;
     public Vector2 intervalRange = new Vector2(12f, 20f);
 
-    // Die UI hoert hier zu und zeigt den Namen des Events an
+    
     public event System.Action<string> EventStarted;
 
     float timer;
@@ -58,7 +58,7 @@ public class EventDirector : MonoBehaviour
         }
     }
 
-    // Event 1: Aufwind-Zonen (Area Effector 2D)
+    // Event 1: Aufwind-Zonen 
     IEnumerator UpdraftEvent()
     {
         EventStarted?.Invoke("Aufwind!");
@@ -70,7 +70,7 @@ public class EventDirector : MonoBehaviour
         }
     }
 
-    // Event 2: viele Steine sinken (kinematischer Rigidbody)
+    // Event 2: viele Steine sinken 
     IEnumerator SinkingEvent()
     {
         EventStarted?.Invoke("Wackelsteine!");
@@ -80,26 +80,26 @@ public class EventDirector : MonoBehaviour
         spawner.sinkChance = before;
     }
 
-    // Event 3: Sturm. Wasser wird dunkel (Shader), Steine fallen vom Himmel
+    // Event 3: Sturm. Wasser wird dunkel , Bälle fallen vom Himmel
         IEnumerator StormEvent()
     {
-        EventStarted?.Invoke("Sturm!");
+        EventStarted?.Invoke("Catch them all!");
         if (water != null) water.SetStorm(1f);
 
         int count = Random.Range(2, 4);          // mal 4, mal 7 Felsen
         for (int i = 0; i < count; i++)
         {
-            float spawnY = 7f;                   // knapp über dem Bildrand, sofort sichtbar
-            float fallTime = 1.15f;              // Fallzeit aus 7 m bei Gravity Scale 1
+            float spawnY = 7f;                   
+            float fallTime = 1.15f;              
             float x;
             if (Random.value < 0.1f)
             {
-                // gezielt: dorthin, wo der Fisch gleich ist, leicht gestreut
+                
                 x = player.position.x + GameManager.Instance.CurrentSpeed * fallTime + Random.Range(-1.5f, 1.5f);
             }
             else
             {
-                // zufällig irgendwo vor dem Fisch
+                
                 x = player.position.x + Random.Range(3f, 14f);
             }
             Instantiate(hazardPrefab, new Vector3(x, spawnY, 0f), Quaternion.identity);

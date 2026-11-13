@@ -1,0 +1,1328 @@
+fileFormatVersion: 2
+guid: 3b243acd7857645058614fe723063fe2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1985467402421130312
+    second: Rissiger grauer Trittstein_0
+  - first:
+      213: 4896099121041020202
+    second: Rissiger grauer Trittstein_1
+  - first:
+      213: -6681516854987019848
+    second: Rissiger grauer Trittstein_2
+  - first:
+      213: -6963893829866126791
+    second: Rissiger grauer Trittstein_3
+  - first:
+      213: -8658469404045269583
+    second: Rissiger grauer Trittstein_4
+  - first:
+      213: -2839104997910054446
+    second: Rissiger grauer Trittstein_5
+  - first:
+      213: -991618744735182033
+    second: Rissiger grauer Trittstein_6
+  - first:
+      213: 1014438617159553675
+    second: Rissiger grauer Trittstein_7
+  - first:
+      213: 8085017887387190104
+    second: Rissiger grauer Trittstein_8
+  - first:
+      213: 6751448767444857689
+    second: Rissiger grauer Trittstein_9
+  - first:
+      213: 4010715331705756660
+    second: Rissiger grauer Trittstein_10
+  - first:
+      213: 251894514749426853
+    second: Rissiger grauer Trittstein_11
+  - first:
+      213: -7164497274230323356
+    second: Rissiger grauer Trittstein_12
+  - first:
+      213: 3946074101304344994
+    second: Rissiger grauer Trittstein_13
+  - first:
+      213: 8886636133040258276
+    second: Rissiger grauer Trittstein_14
+  - first:
+      213: -4891503552503070309
+    second: Rissiger grauer Trittstein_15
+  - first:
+      213: -2069454940521200935
+    second: Rissiger grauer Trittstein_16
+  - first:
+      213: -7913312225791678655
+    second: Rissiger grauer Trittstein_17
+  - first:
+      213: -4159145525837310912
+    second: Rissiger grauer Trittstein_18
+  - first:
+      213: -9115223006564846421
+    second: Rissiger grauer Trittstein_19
+  - first:
+      213: -169617863656119740
+    second: Rissiger grauer Trittstein_20
+  - first:
+      213: -5596192226054728816
+    second: Rissiger grauer Trittstein_21
+  - first:
+      213: -8357168122215685067
+    second: Rissiger grauer Trittstein_22
+  - first:
+      213: 4141753459833626928
+    second: Rissiger grauer Trittstein_23
+  - first:
+      213: 5870919860392981554
+    second: Rissiger grauer Trittstein_24
+  - first:
+      213: -5190233127480941947
+    second: Rissiger grauer Trittstein_25
+  - first:
+      213: 8038707834478669279
+    second: Rissiger grauer Trittstein_26
+  - first:
+      213: -8911056839217086064
+    second: Rissiger grauer Trittstein_27
+  - first:
+      213: 2004262613552946857
+    second: Rissiger grauer Trittstein_28
+  - first:
+      213: -7084849407204254880
+    second: Rissiger grauer Trittstein_29
+  - first:
+      213: 4252731945011751884
+    second: Rissiger grauer Trittstein_30
+  - first:
+      213: 1874188594906774572
+    second: Rissiger grauer Trittstein_31
+  - first:
+      213: -3260564352602599479
+    second: Rissiger grauer Trittstein_32
+  - first:
+      213: -4453032875747372269
+    second: Rissiger grauer Trittstein_33
+  - first:
+      213: -7790656399775826673
+    second: Rissiger grauer Trittstein_34
+  - first:
+      213: -8262890239549373742
+    second: Rissiger grauer Trittstein_35
+  - first:
+      213: 8343464982246897532
+    second: Rissiger grauer Trittstein_36
+  - first:
+      213: -1332120119778222592
+    second: Rissiger grauer Trittstein_37
+  - first:
+      213: 265975163736094803
+    second: Rissiger grauer Trittstein_38
+  - first:
+      213: -1233965439879076095
+    second: Rissiger grauer Trittstein_39
+  - first:
+      213: 8415001844644165179
+    second: Rissiger grauer Trittstein_40
+  - first:
+      213: -4678331475051856030
+    second: Rissiger grauer Trittstein_41
+  - first:
+      213: -5786613655756003132
+    second: Rissiger grauer Trittstein_42
+  - first:
+      213: 4045786490132171377
+    second: Rissiger grauer Trittstein_43
+  - first:
+      213: -4201263989286795770
+    second: Rissiger grauer Trittstein_44
+  - first:
+      213: -6466155867897819936
+    second: Rissiger grauer Trittstein_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 341
+  spriteBorder: {x: 135, y: 82, z: 153, w: 256}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rissiger grauer Trittstein_0
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 548
+        width: 61
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844dd62451ccd8b10800000000000000
+      internalID: 1985467402421130312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rissiger grauer Trittstein_1
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 552
+        width: 101
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2590ceb53072f340800000000000000
+      internalID: 4896099121041020202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rissiger grauer Trittstein_2
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 548
+        width: 45
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9a6b112db7643a0800000000000000
+      internalID: -6681516854987019848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rissiger grauer Trittstein_3
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 546
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9328b4145774b5f90800000000000000
+      internalID: -6963893829866126791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rissiger grauer Trittstein_4
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 546
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b52b4993ffe6d780800000000000000
+      internalID: -8658469404045269583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rissiger grauer Trittstein_5
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 562
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9f88feb097998d0800000000000000
+      internalID: -2839104997910054446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rissiger grauer Trittstein_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 2069
+        height: 546
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23d07761001d32f0800000000000000
+      internalID: -991618744735182033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rissiger grauer Trittstein_7
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 540
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82db3e2c82041e00800000000000000
+      internalID: 1014438617159553675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rissiger grauer Trittstein_8
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 545
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853846caee0c33070800000000000000
+      internalID: 8085017887387190104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rissiger grauer Trittstein_9
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 532
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 953bcce12e6f1bd50800000000000000
+      internalID: 6751448767444857689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rissiger grauer Trittstein_10
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 522
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbd881385ce8a730800000000000000
+      internalID: 4010715331705756660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rissiger grauer Trittstein_11
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 522
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac42800ab8ee7300800000000000000
+      internalID: 251894514749426853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rissiger grauer Trittstein_12
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 196
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4674f3f20b7929c90800000000000000
+      internalID: -7164497274230323356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rissiger grauer Trittstein_13
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 196
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a14d99ec7543c630800000000000000
+      internalID: 3946074101304344994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rissiger grauer Trittstein_14
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 77
+        width: 155
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ecf306ca7ca35b70800000000000000
+      internalID: 8886636133040258276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rissiger grauer Trittstein_15
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 81
+        width: 372
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b914e7f6f63ed1cb0800000000000000
+      internalID: -4891503552503070309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rissiger grauer Trittstein_16
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 33
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d28e8f22b1d743e0800000000000000
+      internalID: -2069454940521200935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rissiger grauer Trittstein_17
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 31
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1476ee805744e2290800000000000000
+      internalID: -7913312225791678655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rissiger grauer Trittstein_18
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 31
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044df4b2e2fb746c0800000000000000
+      internalID: -4159145525837310912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rissiger grauer Trittstein_19
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 29
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4fb3558f8308180800000000000000
+      internalID: -9115223006564846421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rissiger grauer Trittstein_20
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 35
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4426731a37565adf0800000000000000
+      internalID: -169617863656119740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rissiger grauer Trittstein_21
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 35
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093943ff1d45652b0800000000000000
+      internalID: -5596192226054728816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rissiger grauer Trittstein_22
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 33
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534ad1bfedf550c80800000000000000
+      internalID: -8357168122215685067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rissiger grauer Trittstein_23
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 45
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031e0a8e3d67a7930800000000000000
+      internalID: 4141753459833626928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rissiger grauer Trittstein_24
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 47
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234728fe182b97150800000000000000
+      internalID: 5870919860392981554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rissiger grauer Trittstein_25
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 45
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582a807387698f7b0800000000000000
+      internalID: -5190233127480941947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rissiger grauer Trittstein_26
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 39
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd204f3f2a3f8f60800000000000000
+      internalID: 8038707834478669279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rissiger grauer Trittstein_27
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 31
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091862d7401955480800000000000000
+      internalID: -8911056839217086064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rissiger grauer Trittstein_28
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 37
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae5b6d5a3290db10800000000000000
+      internalID: 2004262613552946857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rissiger grauer Trittstein_29
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 33
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b1474500f8dad90800000000000000
+      internalID: -7084849407204254880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rissiger grauer Trittstein_30
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 25
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccba16b0c2db40b30800000000000000
+      internalID: 4252731945011751884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rissiger grauer Trittstein_31
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 33
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2cb181e894720a10800000000000000
+      internalID: 1874188594906774572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rissiger grauer Trittstein_32
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 31
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf02db1ff520c2d0800000000000000
+      internalID: -3260564352602599479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rissiger grauer Trittstein_33
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 33
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31311f35136a332c0800000000000000
+      internalID: -4453032875747372269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rissiger grauer Trittstein_34
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 31
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0dfc34f74702e390800000000000000
+      internalID: -7790656399775826673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rissiger grauer Trittstein_35
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 33
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d20e951b11545d80800000000000000
+      internalID: -8262890239549373742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rissiger grauer Trittstein_36
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 35
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77bcbe1231f9c370800000000000000
+      internalID: 8343464982246897532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rissiger grauer Trittstein_37
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 31
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ed7761fcb538de0800000000000000
+      internalID: -1332120119778222592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rissiger grauer Trittstein_38
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 34
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358f091900fe0b300800000000000000
+      internalID: 265975163736094803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rissiger grauer Trittstein_39
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 31
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10726e268f210eee0800000000000000
+      internalID: -1233965439879076095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rissiger grauer Trittstein_40
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 33
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36b546d79718c470800000000000000
+      internalID: 8415001844644165179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rissiger grauer Trittstein_41
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 35
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f31007f4a331fb0800000000000000
+      internalID: -4678331475051856030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rissiger grauer Trittstein_42
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 33
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c82d34f981d1bfa0800000000000000
+      internalID: -5786613655756003132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rissiger grauer Trittstein_43
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 15
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a07659065852830800000000000000
+      internalID: 4045786490132171377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rissiger grauer Trittstein_44
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 15
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6068be639ac12b5c0800000000000000
+      internalID: -4201263989286795770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rissiger grauer Trittstein_45
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 23
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec84af4f799346a0800000000000000
+      internalID: -6466155867897819936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Rissiger grauer Trittstein_0: 1985467402421130312
+      Rissiger grauer Trittstein_1: 4896099121041020202
+      Rissiger grauer Trittstein_10: 4010715331705756660
+      Rissiger grauer Trittstein_11: 251894514749426853
+      Rissiger grauer Trittstein_12: -7164497274230323356
+      Rissiger grauer Trittstein_13: 3946074101304344994
+      Rissiger grauer Trittstein_14: 8886636133040258276
+      Rissiger grauer Trittstein_15: -4891503552503070309
+      Rissiger grauer Trittstein_16: -2069454940521200935
+      Rissiger grauer Trittstein_17: -7913312225791678655
+      Rissiger grauer Trittstein_18: -4159145525837310912
+      Rissiger grauer Trittstein_19: -9115223006564846421
+      Rissiger grauer Trittstein_2: -6681516854987019848
+      Rissiger grauer Trittstein_20: -169617863656119740
+      Rissiger grauer Trittstein_21: -5596192226054728816
+      Rissiger grauer Trittstein_22: -8357168122215685067
+      Rissiger grauer Trittstein_23: 4141753459833626928
+      Rissiger grauer Trittstein_24: 5870919860392981554
+      Rissiger grauer Trittstein_25: -5190233127480941947
+      Rissiger grauer Trittstein_26: 8038707834478669279
+      Rissiger grauer Trittstein_27: -8911056839217086064
+      Rissiger grauer Trittstein_28: 2004262613552946857
+      Rissiger grauer Trittstein_29: -7084849407204254880
+      Rissiger grauer Trittstein_3: -6963893829866126791
+      Rissiger grauer Trittstein_30: 4252731945011751884
+      Rissiger grauer Trittstein_31: 1874188594906774572
+      Rissiger grauer Trittstein_32: -3260564352602599479
+      Rissiger grauer Trittstein_33: -4453032875747372269
+      Rissiger grauer Trittstein_34: -7790656399775826673
+      Rissiger grauer Trittstein_35: -8262890239549373742
+      Rissiger grauer Trittstein_36: 8343464982246897532
+      Rissiger grauer Trittstein_37: -1332120119778222592
+      Rissiger grauer Trittstein_38: 265975163736094803
+      Rissiger grauer Trittstein_39: -1233965439879076095
+      Rissiger grauer Trittstein_4: -8658469404045269583
+      Rissiger grauer Trittstein_40: 8415001844644165179
+      Rissiger grauer Trittstein_41: -4678331475051856030
+      Rissiger grauer Trittstein_42: -5786613655756003132
+      Rissiger grauer Trittstein_43: 4045786490132171377
+      Rissiger grauer Trittstein_44: -4201263989286795770
+      Rissiger grauer Trittstein_45: -6466155867897819936
+      Rissiger grauer Trittstein_5: -2839104997910054446
+      Rissiger grauer Trittstein_6: -991618744735182033
+      Rissiger grauer Trittstein_7: 1014438617159553675
+      Rissiger grauer Trittstein_8: 8085017887387190104
+      Rissiger grauer Trittstein_9: 6751448767444857689
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

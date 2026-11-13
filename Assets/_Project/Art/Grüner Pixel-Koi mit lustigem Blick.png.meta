@@ -1,0 +1,470 @@
+fileFormatVersion: 2
+guid: b92fa4ddf314e4e8685c5698593292bc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6463512896087970870
+    second: "Gr\xFCner Pixel-Koi mit lustigem Blick_0"
+  - first:
+      213: 4927719622231709216
+    second: "Gr\xFCner Pixel-Koi mit lustigem Blick_1"
+  - first:
+      213: -8251697703204397287
+    second: "Gr\xFCner Pixel-Koi mit lustigem Blick_2"
+  - first:
+      213: -8945566929882658106
+    second: "Gr\xFCner Pixel-Koi mit lustigem Blick_3"
+  - first:
+      213: 4633158433316361468
+    second: "Gr\xFCner Pixel-Koi mit lustigem Blick_4"
+  - first:
+      213: 6239441238215530628
+    second: "Gr\xFCner Pixel-Koi mit lustigem Blick_5"
+  - first:
+      213: 7626666823102492401
+    second: "Gr\xFCner Pixel-Koi mit lustigem Blick_6"
+  - first:
+      213: -6852581155435643296
+    second: "Gr\xFCner Pixel-Koi mit lustigem Blick_7"
+  - first:
+      213: 2962641460652622241
+    second: "Gr\xFCner Pixel-Koi mit lustigem Blick_8"
+  - first:
+      213: -6285022091168568445
+    second: "Gr\xFCner Pixel-Koi mit lustigem Blick_9"
+  - first:
+      213: -5200603272581382267
+    second: "Gr\xFCner Pixel-Koi mit lustigem Blick_10"
+  - first:
+      213: 3439835677412150440
+    second: "Gr\xFCner Pixel-Koi mit lustigem Blick_11"
+  - first:
+      213: 1261414068345668684
+    second: "Gr\xFCner Pixel-Koi mit lustigem Blick_12"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Gr\xFCner Pixel-Koi mit lustigem Blick_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 1024
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb2583244dfc46a0800000000000000
+      internalID: -6463512896087970870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gr\xFCner Pixel-Koi mit lustigem Blick_1"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 756
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026d7d363e6c26440800000000000000
+      internalID: 4927719622231709216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gr\xFCner Pixel-Koi mit lustigem Blick_2"
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 719
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f589688a41c7d80800000000000000
+      internalID: -8251697703204397287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gr\xFCner Pixel-Koi mit lustigem Blick_3"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 687
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6caccddd546fad380800000000000000
+      internalID: -8945566929882658106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gr\xFCner Pixel-Koi mit lustigem Blick_4"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1536
+        height: 1024
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf45ded2c094c4040800000000000000
+      internalID: 4633158433316361468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gr\xFCner Pixel-Koi mit lustigem Blick_5"
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 453
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48892c88fb2f69650800000000000000
+      internalID: 6239441238215530628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gr\xFCner Pixel-Koi mit lustigem Blick_6"
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 367
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fee74b511d57d960800000000000000
+      internalID: 7626666823102492401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gr\xFCner Pixel-Koi mit lustigem Blick_7"
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 373
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ef8b3eebdb6e0a0800000000000000
+      internalID: -6852581155435643296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gr\xFCner Pixel-Koi mit lustigem Blick_8"
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 375
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a14b0336ba6d1920800000000000000
+      internalID: 2962641460652622241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gr\xFCner Pixel-Koi mit lustigem Blick_9"
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 280
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b2a6225bd17c8a0800000000000000
+      internalID: -6285022091168568445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gr\xFCner Pixel-Koi mit lustigem Blick_10"
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 261
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f7d08a0eeb3d7b0800000000000000
+      internalID: -5200603272581382267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gr\xFCner Pixel-Koi mit lustigem Blick_11"
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 199
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8accdd5d250ccbf20800000000000000
+      internalID: 3439835677412150440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gr\xFCner Pixel-Koi mit lustigem Blick_12"
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 29
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c448c627961718110800000000000000
+      internalID: 1261414068345668684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 65723dff5b1e541eb945995fa8c0b709
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Gr\xFCner Pixel-Koi mit lustigem Blick_0": -6463512896087970870
+      "Gr\xFCner Pixel-Koi mit lustigem Blick_1": 4927719622231709216
+      "Gr\xFCner Pixel-Koi mit lustigem Blick_10": -5200603272581382267
+      "Gr\xFCner Pixel-Koi mit lustigem Blick_11": 3439835677412150440
+      "Gr\xFCner Pixel-Koi mit lustigem Blick_12": 1261414068345668684
+      "Gr\xFCner Pixel-Koi mit lustigem Blick_2": -8251697703204397287
+      "Gr\xFCner Pixel-Koi mit lustigem Blick_3": -8945566929882658106
+      "Gr\xFCner Pixel-Koi mit lustigem Blick_4": 4633158433316361468
+      "Gr\xFCner Pixel-Koi mit lustigem Blick_5": 6239441238215530628
+      "Gr\xFCner Pixel-Koi mit lustigem Blick_6": 7626666823102492401
+      "Gr\xFCner Pixel-Koi mit lustigem Blick_7": -6852581155435643296
+      "Gr\xFCner Pixel-Koi mit lustigem Blick_8": 2962641460652622241
+      "Gr\xFCner Pixel-Koi mit lustigem Blick_9": -6285022091168568445
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

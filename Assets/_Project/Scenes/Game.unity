@@ -362,8 +362,8 @@ Transform:
   m_GameObject: {fileID: 384315017}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 0, y: 0.5, z: 0}
+  m_LocalScale: {x: 1, y: 3, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -385,16 +385,16 @@ MonoBehaviour:
   coinPrefab: {fileID: 4353470270639896624, guid: 7ad7e134bedbe447da1c85270e91e757, type: 3}
   player: {fileID: 1734717425}
   spawnAhead: 30
-  stoneHeight: 1
-  topY: 0
-  startX: -8
-  firstStoneWidth: 14
+  stoneHeight: 2
+  topY: 0.5
+  startX: -6
+  firstStoneWidth: 10
   widthEasy: {x: 4, y: 7}
   widthHard: {x: 2, y: 3.5}
   minGap: 1
   easyMaxGap: 1.6
   gapSafety: 0.8
-  coinChance: 0.4
+  coinChance: 0.3
   sinkChance: 0.1
 --- !u!1 &510833382
 GameObject:
@@ -2206,7 +2206,7 @@ MonoBehaviour:
   ui: {fileID: 1654281713}
   updraftPrefab: {fileID: 2698413854602912431, guid: daf8a22414dda4075953328fd8af286d, type: 3}
   hazardPrefab: {fileID: 2456493270383847272, guid: b15586062b50f4df5976a0a59f679b5c, type: 3}
-  firstEventDelay: 20
+  firstEventDelay: 5
   intervalRange: {x: 12, y: 20}
 --- !u!1 &1378972628
 GameObject:
@@ -3256,12 +3256,12 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 2
   m_MaskInteraction: 0
-  m_Sprite: {fileID: -2413806693520163455, guid: a86470a33a6bf42c4b3595704624658b, type: 3}
-  m_Color: {r: 0.9245283, g: 0.54511744, b: 0, a: 1}
+  m_Sprite: {fileID: 21300000, guid: ce90f299cb5ec486598f1b9614f9e908, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 41.8, y: 41.8}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -3471,7 +3471,7 @@ TrailRenderer:
       m_RotationOrder: 4
     colorGradient:
       serializedVersion: 2
-      key0: {r: 0.8867924, g: 0.4830145, b: 0, a: 0.7058824}
+      key0: {r: 0.12710012, g: 0.8018868, b: 0, a: 0.78431374}
       key1: {r: 1, g: 0.71237, b: 0, a: 0}
       key2: {r: 0, g: 0, b: 0, a: 0}
       key3: {r: 0, g: 0, b: 0, a: 0}
@@ -3506,7 +3506,7 @@ TrailRenderer:
     textureScale: {x: 1, y: 1}
     shadowBias: 0.5
     generateLightingData: 0
-  m_MinVertexDistance: 0.1
+  m_MinVertexDistance: 0.3
   m_Autodestruct: 0
   m_Emitting: 1
   m_ApplyActiveColorSpace: 1

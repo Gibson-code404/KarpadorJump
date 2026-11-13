@@ -42,7 +42,7 @@ public class GameUI : MonoBehaviour
         if (gm.Coins != lastCoins)
         {
             lastCoins = gm.Coins;
-            coinText.text = "Münzen " + lastCoins;
+            coinText.text = "Bonbons " + lastCoins;
         }
 
         if (difficultyFill != null) difficultyFill.fillAmount = gm.Difficulty;

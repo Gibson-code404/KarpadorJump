@@ -12,17 +12,85 @@ PrefabInstance:
       propertyPath: m_Name
       value: SinkingStone
       objectReference: {fileID: 0}
+    - target: {fileID: 1435990940486941771, guid: 2a378b1b06afe487e9ea1cc859909170, type: 3}
+      propertyPath: m_Size.x
+      value: 5.5662756
+      objectReference: {fileID: 0}
+    - target: {fileID: 1435990940486941771, guid: 2a378b1b06afe487e9ea1cc859909170, type: 3}
+      propertyPath: m_Size.y
+      value: 1.156462
+      objectReference: {fileID: 0}
+    - target: {fileID: 1435990940486941771, guid: 2a378b1b06afe487e9ea1cc859909170, type: 3}
+      propertyPath: m_Offset.x
+      value: -0.0048390627
+      objectReference: {fileID: 0}
+    - target: {fileID: 1435990940486941771, guid: 2a378b1b06afe487e9ea1cc859909170, type: 3}
+      propertyPath: m_Offset.y
+      value: -0.25161284
+      objectReference: {fileID: 0}
+    - target: {fileID: 1435990940486941771, guid: 2a378b1b06afe487e9ea1cc859909170, type: 3}
+      propertyPath: m_AutoTiling
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1435990940486941771, guid: 2a378b1b06afe487e9ea1cc859909170, type: 3}
+      propertyPath: m_SpriteTilingProperty.border.w
+      value: 0.7510997
+      objectReference: {fileID: 0}
+    - target: {fileID: 1435990940486941771, guid: 2a378b1b06afe487e9ea1cc859909170, type: 3}
+      propertyPath: m_SpriteTilingProperty.border.x
+      value: 0.39589444
+      objectReference: {fileID: 0}
+    - target: {fileID: 1435990940486941771, guid: 2a378b1b06afe487e9ea1cc859909170, type: 3}
+      propertyPath: m_SpriteTilingProperty.border.y
+      value: 0.24058662
+      objectReference: {fileID: 0}
+    - target: {fileID: 1435990940486941771, guid: 2a378b1b06afe487e9ea1cc859909170, type: 3}
+      propertyPath: m_SpriteTilingProperty.border.z
+      value: 0.44868037
+      objectReference: {fileID: 0}
+    - target: {fileID: 1435990940486941771, guid: 2a378b1b06afe487e9ea1cc859909170, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 6.3695016
+      objectReference: {fileID: 0}
+    - target: {fileID: 1435990940486941771, guid: 2a378b1b06afe487e9ea1cc859909170, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.y
+      value: 2.124204
+      objectReference: {fileID: 0}
+    - target: {fileID: 1435990940486941771, guid: 2a378b1b06afe487e9ea1cc859909170, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 6.3695016
+      objectReference: {fileID: 0}
+    - target: {fileID: 1435990940486941771, guid: 2a378b1b06afe487e9ea1cc859909170, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 2.124204
+      objectReference: {fileID: 0}
+    - target: {fileID: 3333753308731738273, guid: 2a378b1b06afe487e9ea1cc859909170, type: 3}
+      propertyPath: m_Size.x
+      value: 6.3695016
+      objectReference: {fileID: 0}
+    - target: {fileID: 3333753308731738273, guid: 2a378b1b06afe487e9ea1cc859909170, type: 3}
+      propertyPath: m_Size.y
+      value: 2.124204
+      objectReference: {fileID: 0}
+    - target: {fileID: 3333753308731738273, guid: 2a378b1b06afe487e9ea1cc859909170, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 3b243acd7857645058614fe723063fe2, type: 3}
     - target: {fileID: 3333753308731738273, guid: 2a378b1b06afe487e9ea1cc859909170, type: 3}
       propertyPath: m_Color.b
-      value: 0.16909933
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3333753308731738273, guid: 2a378b1b06afe487e9ea1cc859909170, type: 3}
       propertyPath: m_Color.g
-      value: 0.24922751
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3333753308731738273, guid: 2a378b1b06afe487e9ea1cc859909170, type: 3}
       propertyPath: m_Color.r
-      value: 0.3773585
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3333753308731738273, guid: 2a378b1b06afe487e9ea1cc859909170, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4211361128999461241, guid: 2a378b1b06afe487e9ea1cc859909170, type: 3}
       propertyPath: m_LocalPosition.x
