@@ -2206,7 +2206,7 @@ MonoBehaviour:
   ui: {fileID: 1654281713}
   updraftPrefab: {fileID: 2698413854602912431, guid: daf8a22414dda4075953328fd8af286d, type: 3}
   hazardPrefab: {fileID: 2456493270383847272, guid: b15586062b50f4df5976a0a59f679b5c, type: 3}
-  firstEventDelay: 5
+  firstEventDelay: 10
   intervalRange: {x: 12, y: 20}
 --- !u!1 &1378972628
 GameObject:
