@@ -33,7 +33,7 @@ public class GameManager : MonoBehaviour
 
     void Awake()
     {
-        // Singleton: es darf nur einen GameManager geben
+        
         if (Instance != null && Instance != this)
         {
             Destroy(gameObject);
